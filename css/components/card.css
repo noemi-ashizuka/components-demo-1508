@@ -1,0 +1,37 @@
+.card-category {
+  color: white;
+  height: 300px;
+  font-size: 24px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.card-product {
+  display: flex;
+  background-color: white;
+  gap: 16px;
+  align-items: center;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-product h2 {
+  margin: 0;
+}
+
+.card-product p {
+  margin: 0;
+}
+
+.card-product img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+
+#card-highlight {
+  background-color: aquamarine;
+}

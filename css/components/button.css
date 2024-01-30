@@ -1,0 +1,22 @@
+.btn-airbnb {
+  background-color: #E01561;
+  color: white;
+  padding: 7px 40px;
+  font-size: 12px;
+  border-radius: 6px;
+}
+
+.btn-airbnb:hover {
+  background-color: #FF395D;
+}
+
+.btn-pinterest {
+  background-color: #E60023;
+  color: white;
+  padding: 16px 20px;
+  border-radius: 42px;
+}
+
+.btn-pinterest:hover {
+  opacity: .5;
+}
